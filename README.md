@@ -1,4 +1,4 @@
-# loja-online1
+# loja-online1serviços tempo
 Este repositório é para praticar o fluxo do GitHub."
 feat: adiciona README inicial
 - Qual comando mostra o histórico de commits?
